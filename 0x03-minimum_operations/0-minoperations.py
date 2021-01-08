@@ -22,4 +22,3 @@ def minOperations(n):
         else:
             div += 1
     return cont
-    
