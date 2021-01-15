@@ -1,8 +1,9 @@
-#include <stdlib.h>
-#include <stdio.h>
-
 #include "sandpiles.h"
-
+/**
+ * print_grid_unstable - print a grid
+ * @grid: grid to print
+ * Return: Nothing
+ */
 static void print_grid_sum(int grid1[3][3], int grid2[3][3])
 {
     int i, j;
